@@ -5,10 +5,10 @@
 # Cargar Librerías --------------------------------------------------------
 
 library(tidyverse) # Orden y manipulación de datos, gráficos
-library(highcharter) # Gráficos interactivos
-library(kableExtra) # Tablas bonitas en html
-library(DT) # Tablas con mayores prestaciones
 library(openxlsx) # Para guardar las bbdd a formato xlsx
+library(highcharter) # Gráficos interactivos (no se ocuparán aún)
+library(kableExtra) # Tablas bonitas en html (no se ocuparán aún)
+library(DT) # Tablas con mayores prestaciones (no se ocuparán aún)
 
 # Crear base de datos -----------------------------------------------------
 
