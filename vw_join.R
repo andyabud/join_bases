@@ -41,9 +41,9 @@ glimpse(consolidado_campanas) # revisar nueva bbdd fusionada
 # Guardar base consolidado campañas en un xlsx y csv
 
 ## xlsx
-write.xlsx(consolidado_campanas, "consolidado_campañas.xlsx")
+write.xlsx(consolidado_campanas, "consolidado_campanas.xlsx")
 
 ##csv
-write.csv(consolidado_campanas, "consolidado_campañas.csv")
+write.csv(consolidado_campanas, "consolidado_campanas.csv")
 
 
